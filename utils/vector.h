@@ -12,7 +12,7 @@ void printVector(vector<int> v){
 
 void print2DVector(vector<vector<int>> v){
     for(int i=0;i<v.size();i++){
-        for(int j=0;v[0].size();j++){
+        for(int j=0;v[i].size();j++){
             cout << v[i][j] << " ";
         }
     }
