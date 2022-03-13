@@ -97,16 +97,19 @@ int main(){
     // Preorder(root);
     cout << endl;
     int h = height(root);
-    vector<vector<int>> result{10};
-    traverseBottomToTop(root,0,result);
-    for(int i=9;i>=0;i--){
-        for(int j = 0;j<result[i].size();j++){
-            cout << result[i][j] << " ";
-        }
-        if(result[i].size()!=0){
-            cout << endl;
-        }
-    }
+    // vector<vector<int>> result{10};
+    // traverseBottomToTop(root,0,result);
+    // for(int i=9;i>=0;i--){
+    //     for(int j = 0;j<result[i].size();j++){
+    //         cout << result[i][j] << " ";
+    //     }
+    //     if(result[i].size()!=0){
+    //         cout << endl;
+    //     }
+    // }
+
+
+
     // stack<int> result = bottomTopTraversal(root);
     // while(!result.empty()){
     //     if(result.top()==-1){

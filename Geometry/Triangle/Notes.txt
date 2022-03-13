@@ -1,0 +1,24 @@
+Basic facts:-
+    The sum of all the internal angles of a triangle is always 180o no matter how the triangle is constructed.
+    The length of any side of a triangle is shorter than the sum of the other two sides.
+    A triangle can always be split into two right triangles no matter how the triangle is constructed.
+
+Formulas:-
+    Area of a triangle is the region occupied by a triangle in a two-dimensional plane. The dimension of the area is square units. The formula for area is given by;
+    Area = 1/2 x Base x Height
+
+The perimeter of a triangle is the length of the outer boundary of a triangle. To find the perimeter of a triangle we need to add the length of the sides of the triangle.
+P = a + b + c
+
+Semi-perimeter of a triangle is half of the perimeter of the triangle. It is represented by s.
+s = (a + b + c)/2
+
+where a, b and c are the sides of the triangle.
+
+By Heron’s formula, the area of the triangle is given by:
+A = √[s(s – a)(s – b)(s – c)]
+
+where ‘s’ is the semi-perimeter of the triangle.
+
+By the Pythagorean theorem, the hypotenuse of a right-angled triangle can be calculated by the formula:
+Hypotenuse2 = Base2 + Perpendicular2
