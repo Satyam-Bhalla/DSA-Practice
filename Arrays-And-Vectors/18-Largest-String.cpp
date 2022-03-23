@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 // Problem : Read N Strings and print the largest string. Each string can have upto 1000 characters.
